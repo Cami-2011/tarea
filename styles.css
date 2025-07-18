@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background: linear-gradient(to right, #1e3c72, #a4eaff);
+    background: linear-gradient(to right, #f0ca7aa4, #a4eaff);
     margin: 0;
     padding: 0;
     display: flex;
@@ -59,43 +59,3 @@ body {
     color: white;
     cursor: pointer;
     font-weight: bold;
-}
-
-.sesion button:hover {
-    background-color: #8ad4ff;
-}
-.button button {
-    margin-top: 10px;
-    border: none;
-    border-radius: 5px;
-    padding:8px;
-    color: white;
-    background-color: rgb(113, 173, 241);
-    cursor: pointer;
-    font-weight: bold;
-}
-.button button:hover {
-    background-color: #8ad4ff;
-}
-.logo {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 10px;
-}
-.logo img {
-    width: 50px;
-    height: auto
-}
-.Personas {
-    background-color: rgb(138, 196, 250);
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgb(255, 255, 255);
-    width: 150px;
-    margin-top: 1px;
-    position: absolute;
-    top: 30px;
-    right: 15px;
-    color: rgb(1, 15, 63);
-}
